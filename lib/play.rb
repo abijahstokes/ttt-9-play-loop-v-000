@@ -39,7 +39,8 @@ end
 def play(board, index)
     turn = 0
     while turn < 9
-    return turn
+    puts turn
     turn += 1
+  break
   end
 end
