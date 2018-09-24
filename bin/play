@@ -15,4 +15,3 @@ def play(board, index)
     turn += 1
   end
 end
-
