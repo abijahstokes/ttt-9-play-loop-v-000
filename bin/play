@@ -13,5 +13,5 @@ def play(board)
     until counter == 9
     puts turn
     counter += 1
-  end 
-end 
+  end
+end
